@@ -17,6 +17,7 @@ const Signup = () => {
             console.log(error)
         }
     }
+    
   return (
     <>
     <div className="w-full h-screen ">
